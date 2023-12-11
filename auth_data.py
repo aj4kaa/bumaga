@@ -1,2 +1,2 @@
-login_bumaga = "19825"
-password_bumaga = "9208698155"
+login_bumaga = ""
+password_bumaga = ""
